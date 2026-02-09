@@ -86,9 +86,3 @@ yt-dlp --list-formats "<URL>"
 # Then choose an available format
 yt-dlp -f <format_id> "<URL>"
 ```
-
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
-
